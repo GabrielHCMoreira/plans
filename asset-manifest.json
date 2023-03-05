@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e42308c7.css",
+    "main.js": "/static/js/main.1c2f5ca7.js",
+    "static/media/imagem_home.png": "/static/media/imagem_home.7cd1ba9813b38f991538.png",
+    "static/media/imagem_sobre.png": "/static/media/imagem_sobre.ef825c50dd5dc13e52a0.png",
+    "static/media/imagem_do_formulario2.png": "/static/media/imagem_do_formulario2.ca111053996131ac89b7.png",
+    "static/media/imagem_do_formulario3.png": "/static/media/imagem_do_formulario3.db51918922a1b0942025.png",
+    "index.html": "/index.html",
+    "main.e42308c7.css.map": "/static/css/main.e42308c7.css.map",
+    "main.1c2f5ca7.js.map": "/static/js/main.1c2f5ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e42308c7.css",
+    "static/js/main.1c2f5ca7.js"
+  ]
+}
